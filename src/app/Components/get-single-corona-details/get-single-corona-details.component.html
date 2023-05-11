@@ -1,0 +1,44 @@
+
+<form #myForm="ngForm" (ngSubmit)="Search()" >
+    <input type="text" [(ngModel)]="cvd.hmoMemberId" name="hmoMemberId" id="hmoMemberId" placeholder="Insert ID number:"  required="ngModel">
+    <input type="submit" value="Search" [disabled]="!myForm.valid">   
+</form>
+<!--   *ngIf="singleCDetails.hmoMemberId!=null" -->
+    <table class="table">
+        <thead >
+          <tr>
+            <th scope="col"></th>
+            <th scope="col">hmoMemberId</th>
+            <th scope="col">dateOfVaccines1</th>
+            <th scope="col">vmanufacturer1</th>
+            <th scope="col">dateOfVaccines2</th>
+            <th scope="col">vmanufacturer2</th>
+            <th scope="col">dateOfVaccines3</th>
+            <th scope="col">vmanufacturer3</th>
+            <th scope="col">dateOfVaccines4</th>
+            <th scope="col">dateOfVaccines4</th>
+            <th scope="col">timeOfPositiveAnswer</th>
+            <th scope="col">recoveryDate</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row"></th>
+            <td>{{cvd.hmoMemberId}}</td>
+            <td>{{singleCDetails.dateOfVaccines1}}</td>
+            <td> {{singleCDetails.vmanufacturer1}}</td>
+            <td>{{singleCDetails.dateOfVaccines2}}</td>
+            <td>{{singleCDetails.vmanufacturer2}}</td>
+            <td>{{singleCDetails.dateOfVaccines3}}</td>
+            <td>{{singleCDetails.vmanufacturer3}}</td>
+            <td>{{singleCDetails.dateOfVaccines4}}</td>
+            <td>{{singleCDetails.dateOfVaccines4}}</td>
+            <td>{{singleCDetails.timeOfPositiveAnswer}}</td>
+            <td>{{singleCDetails.recoveryDate}}</td>
+          </tr>
+        </tbody>
+      </table>
+
+   
+
+<router-outlet></router-outlet>

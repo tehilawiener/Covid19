@@ -1,0 +1,39 @@
+
+<form #myForm="ngForm" (ngSubmit)="Search()" >
+    <input type="text" [(ngModel)]="hmo.id" name="hmoMemberId" id="hmoMemberId" placeholder="Insert ID number:"  required="ngModel">
+    <input type="submit" value="Search" [disabled]="!myForm.valid">   
+</form>
+    <table class="table">
+        <thead *ngIf="singleHMOmember.id!=null">
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">ID</th>
+            <th scope="col">LastName</th>
+            <th scope="col">FirstName</th>
+            <th scope="col">BurnDate</th>
+            <th scope="col">City</th>
+            <th scope="col">Street</th>
+            <th scope="col">HouseNumber</th>
+            <th scope="col">FoneNumber</th>
+            <th scope="col">MobileFone</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row"></th>
+            <td>{{singleHMOmember.id}}</td>
+            <td>{{singleHMOmember.lastName}}</td>
+            <td> {{singleHMOmember.firstName}}</td>
+            <td>{{singleHMOmember.burnDate}}</td>
+            <td>{{singleHMOmember.city}}</td>
+            <td>{{singleHMOmember.street}}</td>
+            <td>{{singleHMOmember.houseNumber}}</td>
+            <td>{{singleHMOmember.foneNumber}}</td>
+            <td>{{singleHMOmember.mobileFone}}</td>
+          </tr>
+        </tbody>
+      </table>
+
+   
+
+<router-outlet></router-outlet>

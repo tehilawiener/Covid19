@@ -1,0 +1,44 @@
+
+
+<table class="table"  >
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">ID</th>
+        <th scope="col">LastName</th>
+        <th scope="col">FirstName</th>
+        <th scope="col">BurnDate</th>
+        <th scope="col">City</th>
+        <th scope="col">Street</th>
+        <th scope="col">HouseNumber</th>
+        <th scope="col">FoneNumber</th>
+        <th scope="col">MobileFone</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let cv of HMOmembers">
+        <th scope="row"></th>
+        <td>{{cv.id}}</td>
+        <td>{{cv.lastName}}</td>
+        <td>{{cv.firstName}}</td>
+        <td>{{cv.burnDate}}</td>
+        <td>{{cv.city}}</td>
+        <td>{{cv.street}}</td>
+        <td>{{cv.houseNumber}}</td>
+        <td>{{cv.foneNumber}}</td>
+        <td>{{cv.mobileFone}}</td>
+      </tr>
+      <!-- <tr>
+        <th scope="row">2</th>
+        <td>Jacob</td>
+        <td>Thornton</td>
+        <td>@fat</td>
+      </tr>
+      <tr>
+        <th scope="row">3</th>
+        <td colspan="2">Larry the Bird</td>
+        <td>@twitter</td>
+      </tr> -->
+    </tbody>
+  </table>
+<router-outlet></router-outlet>

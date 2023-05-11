@@ -1,0 +1,12 @@
+
+    <ngb-datepicker (dateSelect)="onDateSelect($event)"></ngb-datepicker>
+    <form #myForm="ngForm" (ngSubmit)="add()" class="navbar-form pull-left">
+      <br>
+        <input type="text" [(ngModel)]="newCovidD.hmoMemberId" class="span2" name="hmoMemberId" id="hmoMemberId"
+        minlength="5" required placeholder="hmoMemberId">
+        <br>
+        <input type="text" [(ngModel)]="newCovidD.vmanufacturer1" class="span2" name="vmanufacturer1" id="vmanufacturer1"
+        minlength="5" required placeholder=" insert manufacturer name">
+        <button type="submit" class="btn" (click)="add()">Submit</button>
+      </form>
+      

@@ -1,0 +1,28 @@
+
+
+
+  <form #myForm="ngForm" (ngSubmit)="addHMO()" class="navbar-form pull-left">
+    
+    <input type="text" [(ngModel)]="hmoM.id" class="span2" name="Id" id="Id"
+    minlength="5" required placeholder="insert Id">
+    <input type="text" [(ngModel)]="hmoM.lastName" class="span2" name="lastName" id="lastName"
+    minlength="5" required placeholder=" insert lastName ">
+
+    <input type="text" [(ngModel)]="hmoM.firstName" class="span2" name="firstName" id="firstName"
+    minlength="5" required placeholder="insert firstName"><br>
+    <label>select born date:</label><br>
+    <ngb-datepicker (dateSelect)="onDateSelect($event)"> </ngb-datepicker><br>
+
+    <input type="text" [(ngModel)]="hmoM.foneNumber" class="span2" name="foneNumber" id="foneNumber"
+    minlength="5" required placeholder=" insert foneNumber ">
+
+    <input type="text" [(ngModel)]="hmoM.mobileFone" class="span2" name="mobileFone" id="mobileFone"
+    minlength="5" required placeholder="insert mobileFone">
+   
+
+
+    <button type="submit" class="btn" (click)="addHMO()">Submit</button>
+  </form>
+
+
+  

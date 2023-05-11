@@ -1,0 +1,36 @@
+
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">ID</th>
+        <th scope="col">DateOfVaccines1</th>
+        <th scope="col">VManufacturer1</th>
+        <th scope="col">DateOfVaccines2</th>
+        <th scope="col">VManufacturer2</th>
+        <th scope="col">DateOfVaccines3</th>
+        <th scope="col">VManufacturer3</th>
+        <th scope="col">DateOfVaccines4</th>
+        <th scope="col">VManufacturer4</th>
+        <th scope="col">TimeOfPositiveAnswer</th>
+        <th scope="col">RecoveryDate</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let cv of Covid19Details">
+        <th scope="row"></th>
+        <td>{{cv.hmomemberId}}</td>
+        <td> {{cv.dateOfVaccines1}}</td>
+        <td>{{cv.vmanufacturer1}}</td>
+        <td>{{cv.dateOfVaccines2}}</td>
+        <td>{{cv.vmanufacturer2}}</td>
+        <td>{{cv.dateOfVaccines3}}</td>
+        <td>{{cv.vmanufacturer3}}</td>
+        <td>{{cv.dateOfVaccines4}}</td>
+        <td> {{cv.vmanufacturer4}}</td>
+        <td>{{cv.timeOfPositiveAnswer}}</td>
+        <td> {{cv.recoveryDate}}</td>
+      </tr>
+    </tbody>
+  </table>
+<router-outlet></router-outlet>
