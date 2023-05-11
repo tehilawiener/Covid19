@@ -1,0 +1,296 @@
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Covid19.exe
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Covid19.deps.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Covid19.runtimeconfig.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Covid19.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Covid19.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\BLL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\BLL.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.AssemblyInfo.cs
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.Covid19.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.build.Covid19.props
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Covid19.props
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Covid19.props
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\scopedcss\bundle\Covid19.styles.css
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.csproj.CopyComplete
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\refint\Covid19.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.genruntimeconfig.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\ref\Covid19.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.MvcApplicationPartsAssemblyInfo.cs
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\appsettings.Development.json
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\appsettings.json
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Covid19.exe
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Covid19.deps.json
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Covid19.runtimeconfig.json
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Covid19.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Covid19.pdb
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Humanizer.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\BLL.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\DAL.dll
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\BLL.pdb
+E:\10.5\פרוייקט אמן\Covid19\bin\Debug\net6.0\DAL.pdb
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.csproj.AssemblyReference.cache
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.GeneratedMSBuildEditorConfig.editorconfig
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.AssemblyInfoInputs.cache
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.AssemblyInfo.cs
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.csproj.CoreCompileInputs.cache
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.MvcApplicationPartsAssemblyInfo.cs
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.MvcApplicationPartsAssemblyInfo.cache
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.Covid19.Microsoft.AspNetCore.StaticWebAssets.props
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.build.Covid19.props
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Covid19.props
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Covid19.props
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\staticwebassets.pack.json
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\staticwebassets.build.json
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\staticwebassets.development.json
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\scopedcss\bundle\Covid19.styles.css
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.csproj.CopyComplete
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.dll
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\refint\Covid19.dll
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.pdb
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\Covid19.genruntimeconfig.cache
+E:\10.5\פרוייקט אמן\Covid19\obj\Debug\net6.0\ref\Covid19.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Covid19.exe
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Covid19.deps.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Covid19.runtimeconfig.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Covid19.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Covid19.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\BLL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\BLL.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\Covid19.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\Covid19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\Covid19.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\Covid19.AssemblyInfo.cs
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\Covid19.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\Covid19.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\Covid19.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.Covid19.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.build.Covid19.props
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Covid19.props
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Covid19.props
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\scopedcss\bundle\Covid19.styles.css
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\Covid19.csproj.CopyComplete
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\Covid19.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\refint\Covid19.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\Covid19.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\Covid19.genruntimeconfig.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\Covid19\obj\Debug\net6.0\ref\Covid19.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Covid19.exe
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Covid19.deps.json
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Covid19.runtimeconfig.json
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Covid19.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Covid19.pdb
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\BLL.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\BLL.pdb
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\Covid19.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\Covid19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\Covid19.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\Covid19.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\Covid19.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\Covid19.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\Covid19.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.Covid19.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.build.Covid19.props
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Covid19.props
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Covid19.props
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\scopedcss\bundle\Covid19.styles.css
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\Covid19.csproj.CopyComplete
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\Covid19.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\refint\Covid19.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\Covid19.pdb
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\Covid19.genruntimeconfig.cache
+C:\Users\User\Desktop\New folder (2)\Covid server\Covid19\obj\Debug\net6.0\ref\Covid19.dll
