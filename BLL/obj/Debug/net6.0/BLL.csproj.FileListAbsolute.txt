@@ -1,0 +1,60 @@
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\BLL\obj\Debug\net6.0\ref\BLL.dll
+E:\10.5\פרוייקט אמן\BLL\bin\Debug\net6.0\BLL.deps.json
+E:\10.5\פרוייקט אמן\BLL\bin\Debug\net6.0\BLL.dll
+E:\10.5\פרוייקט אמן\BLL\bin\Debug\net6.0\BLL.pdb
+E:\10.5\פרוייקט אמן\BLL\bin\Debug\net6.0\DAL.dll
+E:\10.5\פרוייקט אמן\BLL\bin\Debug\net6.0\DAL.pdb
+E:\10.5\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+E:\10.5\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\10.5\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+E:\10.5\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+E:\10.5\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+E:\10.5\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+E:\10.5\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.dll
+E:\10.5\פרוייקט אמן\BLL\obj\Debug\net6.0\refint\BLL.dll
+E:\10.5\פרוייקט אמן\BLL\obj\Debug\net6.0\BLL.pdb
+E:\10.5\פרוייקט אמן\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\User\Desktop\New folder (2)\Covid server\BLL\obj\Debug\net6.0\ref\BLL.dll

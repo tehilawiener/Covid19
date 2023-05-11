@@ -1,0 +1,56 @@
+C:\Users\User\Documents\תהילה\פרוייקט אמן\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תהילה\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\User\Documents\תהילה\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\DAL\obj\Debug\net6.0\ref\DAL.dll
+E:\10.5\פרוייקט אמן\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\10.5\פרוייקט אמן\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\10.5\פרוייקט אמן\DAL\bin\Debug\net6.0\DAL.dll
+E:\10.5\פרוייקט אמן\DAL\bin\Debug\net6.0\DAL.pdb
+E:\10.5\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\10.5\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\10.5\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\10.5\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\10.5\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\10.5\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.dll
+E:\10.5\פרוייקט אמן\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\10.5\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.pdb
+E:\10.5\פרוייקט אמן\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\10.5\פרוייקט אמן\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\User\Documents\תהילה\פרוייקט אמן\lasst\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\User\Desktop\New folder (2)\Covid server\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\New folder (2)\Covid server\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\New folder (2)\Covid server\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\Covid server\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder (2)\Covid server\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder (2)\Covid server\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder (2)\Covid server\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\Covid server\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\User\Desktop\New folder (2)\Covid server\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\New folder (2)\Covid server\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\New folder (2)\Covid server\DAL\obj\Debug\net6.0\ref\DAL.dll
